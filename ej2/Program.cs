@@ -128,7 +128,7 @@ namespace ej2
 
             short planta = PideAscensor();
             EsperaAlAscensor(planta);
-            //pueba cosas git
+           
             
 
         }
