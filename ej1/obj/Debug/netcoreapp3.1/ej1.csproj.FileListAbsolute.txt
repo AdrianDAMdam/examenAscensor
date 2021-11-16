@@ -1,0 +1,13 @@
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\Examen\ej1\bin\Debug\netcoreapp3.1\ej1.exe
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\Examen\ej1\bin\Debug\netcoreapp3.1\ej1.deps.json
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\Examen\ej1\bin\Debug\netcoreapp3.1\ej1.runtimeconfig.json
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\Examen\ej1\bin\Debug\netcoreapp3.1\ej1.runtimeconfig.dev.json
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\Examen\ej1\bin\Debug\netcoreapp3.1\ej1.dll
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\Examen\ej1\bin\Debug\netcoreapp3.1\ej1.pdb
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\Examen\ej1\obj\Debug\netcoreapp3.1\ej1.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\Examen\ej1\obj\Debug\netcoreapp3.1\ej1.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\Examen\ej1\obj\Debug\netcoreapp3.1\ej1.AssemblyInfo.cs
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\Examen\ej1\obj\Debug\netcoreapp3.1\ej1.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\Examen\ej1\obj\Debug\netcoreapp3.1\ej1.dll
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\Examen\ej1\obj\Debug\netcoreapp3.1\ej1.pdb
+C:\Users\adria\Desktop\DAM\aPROGRAMACION\TEMA 5\Examen\ej1\obj\Debug\netcoreapp3.1\ej1.genruntimeconfig.cache
